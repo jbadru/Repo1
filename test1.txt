@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is F67E-7CCD
+
+ Directory of C:\Tools\MyGitFolder
+
+08/05/2019  10:47    <DIR>          .
+08/05/2019  10:47    <DIR>          ..
+08/05/2019  10:47                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  731,683,516,416 bytes free
